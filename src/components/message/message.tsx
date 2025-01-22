@@ -3,7 +3,7 @@
 export function MessageBot({...props}) {
     return (
     <div className="message">
-        <img src="./iconBot.png" alt="" />
+        <img src="./iconBot-teste.png" alt="" />
         <div className="texts">
             <p>{props.text}</p>
         </div>
